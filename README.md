@@ -21,11 +21,11 @@ Configure a suitable command line menu where the username will initially be requ
    a. Post a message (Send a message to the wall): Once a wall is selected, the system asks the user to enter the text of the message to be sent to the wall.
    b. Reply to a message: a numbered list of messages on the user's wall is displayed and the user selects the corresponding message number and then enters the reply text
    c. Like: A list of all the messages (numbered) on the user's wall is displayed and the user selects the one he/she wants to like.
-3. Send friend request: a numbered list of users who are not his friends is displayed and he/she is asked to select a user (by entering the corresponding number).
-4. Accept/Reject friend request: a numbered list of users who have sent a friend request to the current user is displayed, and the user selects the number of the request they want to accept/reject.
-5. See my friends: the system displays all the user's friends.
-6. Back. Goes back one level up in the menu each time.
-7. Logging out of a user and asking for another user to log in.
-8. Exit program.
+4. Send friend request: a numbered list of users who are not his friends is displayed and he/she is asked to select a user (by entering the corresponding number).
+5. Accept/Reject friend request: a numbered list of users who have sent a friend request to the current user is displayed, and the user selects the number of the request they want to accept/reject.
+6. See my friends: the system displays all the user's friends.
+7. Back. Goes back one level up in the menu each time.
+8. Logging out of a user and asking for another user to log in.
+9. Exit program.
 
 The implementation was done in both Java and C++.
