@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=userPosted\ message
+comment0.target=Message(User,\ java.lang.String)
+comment1.params=
+comment1.target=void\ printMessage()
+comment2.params=replyMessage
+comment2.target=void\ setReplyMessage(Message)
+comment3.params=
+comment3.target=void\ incrLike()
+comment4.params=message
+comment4.target=boolean\ equals(Message)
+numComments=5

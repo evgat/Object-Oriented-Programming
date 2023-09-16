@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=boolean\ connectWithApp()
+comment2.params=
+comment2.target=int\ makeAChoice()
+comment3.params=choice\ user
+comment3.target=User\ userWallChoice(int,\ User)
+numComments=4

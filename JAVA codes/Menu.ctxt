@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=
+comment1.target=void\ choice1()
+comment2.params=
+comment2.target=void\ userFriends()
+comment3.params=user
+comment3.target=void\ choice2(User)
+comment4.params=
+comment4.target=void\ choice3()
+comment5.params=
+comment5.target=void\ choice4()
+comment6.params=user
+comment6.target=void\ choice5(User)
+numComments=7

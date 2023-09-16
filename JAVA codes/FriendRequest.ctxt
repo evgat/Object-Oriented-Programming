@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=from\ to
+comment0.target=FriendRequest(User,\ User)
+comment1.params=
+comment1.target=void\ areSame()
+comment2.params=
+comment2.target=void\ areAlreadyFriends()
+comment3.params=status
+comment3.target=void\ setStatus(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getStatus()
+comment5.params=
+comment5.target=User\ getSender()
+comment6.params=
+comment6.target=void\ printRequest()
+numComments=7

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=owner
+comment0.target=Wall(User)
+comment1.params=from\ message
+comment1.target=void\ post(User,\ java.lang.String)
+comment2.params=
+comment2.target=java.util.ArrayList\ getPosts()
+comment3.params=
+comment3.target=User\ getUserName()
+numComments=4

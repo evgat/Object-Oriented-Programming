@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=users
+comment0.target=void\ setMap(java.util.Map)
+comment1.params=user
+comment1.target=void\ addUser(User)
+comment10.params=
+comment10.target=User[]\ getNonFriends()
+comment2.params=user\ other
+comment2.target=void\ becomeFriends(User,\ User)
+comment3.params=user
+comment3.target=User[]\ getFriends(User)
+comment4.params=
+comment4.target=User[]\ getAllUsers()
+comment5.params=user\ other
+comment5.target=boolean\ areFriends(User,\ User)
+comment6.params=user1\ user2
+comment6.target=java.util.ArrayList\ getMutualFriends(User,\ User)
+comment7.params=user1\ user2
+comment7.target=void\ removeFromFriends(User,\ User)
+comment8.params=user
+comment8.target=void\ setUserConnected(User)
+comment9.params=
+comment9.target=User\ getUserConnected()
+numComments=11
