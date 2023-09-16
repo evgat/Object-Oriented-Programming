@@ -21,7 +21,9 @@ Configure a suitable command line menu where the username will initially be requ
 2. See friend's wall: As above, but for a friend's wall. It is selected from a numbered list of friends that the option displays.
 
 Post a message (Send a message to the wall): Once a wall is selected, the system asks the user to enter the text of the message to be sent to the wall.
+
 Reply to a message: a numbered list of messages on the user's wall is displayed and the user selects the corresponding message number and then enters the reply text
+
 Like: A list of all the messages (numbered) on the user's wall is displayed and the user selects the one he/she wants to like.
 
 3. Send friend request: a numbered list of users who are not his friends is displayed and he/she is asked to select a user (by entering the corresponding number).
