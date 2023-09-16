@@ -1,0 +1,28 @@
+Implementation:
+
+First it asks us to put the email. We put one of the following: mail1, mail2, mail3, mail4, mail5, mail6, mail7, mail8
+
+This will show us the main menu.
+
+To send a message to a friend in the main menu press option 2. Then it will show us the list of
+the friends of the logged in user. We select a user by simply typing the number as shown in the menu.
+
+When we select the appropriate user it shows us the messages that the user has on his wall as well as 3 options.
+The options are 1. to post on the user's friend's wall, 2. to send a reply to a message (not implemented) and to like a message.
+
+In case we press 1 It shows us a message and prompts us to enter the message we want to be published on the wall.
+If we now press 3, the program will prompt us to enter the number of the message to like.
+
+
+To send a friend request in the main menu press option 3. Then a list of users will appear
+who are not friends of the connected user and will ask us to choose one of them. After we choose to send the message.
+
+To accept or reject a friend request press option 4. When this is done we will see a list of all requests
+which we have received and not answered. To answer one, type the corresponding number.
+Then the program
+it will ask us if we want to accept the request. The options are yes/no.
+
+Back option (6) is not implemented.
+
+Disconnect: To disconnect the user and connect to another in the main menu, press option 7. In this way, he will ask us for a new email.
+We put one of the available ones. (mail1, mail2, mail3, mail4, mail5, mail6, mail7, mail8, mail9, mail10).
