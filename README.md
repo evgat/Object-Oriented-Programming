@@ -10,9 +10,9 @@ In the context of this project, a simplified social network system was implement
 5. Class ReplyMessage: Each reply is also a Message with its own timestamp etc.
 6. Class Network: represents the social network that is formed. The class can have only one instance (singleton). It stores the users (thus also the walls and the posts). Represents friendship relationships in the network by maintaining a graph (e.g. Map mapping users to a list of their friends).
 7. Class Menu: represents the application's menu and includes methods for printing options, handling user input, and menu navigation.
-8. Exception Classes: appropriate exception classes should be implemented and handled in case of illegal actions. For example, trying to add a friend that already exists raises an exception, trying to post on a user's wall that is not a friend raises an exception, sending a friend request to an existing friend, adding an existing user, entering an invalid option in the menu etc.
+8. Exception Classes: appropriate exception classes should be implemented and handled in case of illegal actions. For example, trying to add a friend that already exists raises an exception, trying to post on a user's wall that is not a friend raises an exception, sending a friend request to an existing friend, adding an existing user, entering an invalid option in the menu, etc.
 
-Application Functionality:
+# Application Functionality:
 
 Configure a suitable command line menu where the username will initially be requested. The system will identify the user and then show them the following menu of options:
 
