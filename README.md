@@ -1,4 +1,4 @@
-# Object-Oriented-Programming - Social Network System using Java and C++
+# Object Oriented Programming - Social Network System using Java and C++
 CEID PROJECT 2019
 
 In the context of this project, a simplified social network system was implemented that supports user registration, sending messages and replies to messages, likes, sending friendship requests, and accepting/rejecting them and could include the classes described below. 
